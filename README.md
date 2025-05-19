@@ -29,7 +29,7 @@ My interests span across AI, Natural Language Processing (NLP), Generative AI (G
 ### 📚 Certifications
 
 - **Exploratory Data Analysis for Machine Learning**  
-  *Offered by: Coursera (part of the Advanced Data Analytics Specialization)*  
+  *Offered by: Coursera (Authorized by IBM)*  
   [🔗 View Certificate](https://coursera.org/share/aa97c874825ec3425610111fc4cf63ec)
 
 - **Supervised Machine Learning: Regression**  
@@ -39,6 +39,26 @@ My interests span across AI, Natural Language Processing (NLP), Generative AI (G
 - **Supervised Machine Learning: Regression and Classification**  
   *Offered by: Coursera (taught by Andrew Ng, DeepLearning.AI)*  
   [🔗 View Certificate](https://coursera.org/share/944e7790940e5d734044a413ecb69c0c)
+
+- **Ask Questions to Make Data-Driven Decisions**  
+  *Offered by: Coursera (Authorized by Google)*  
+  [🔗 View Certificate](https://coursera.org/share/79f1421ef562b54f83b3897bdbc37d3d)
+
+- **Foundations: Data, Data, Everywhere**  
+  *Offered by: Coursera (Authorized by Google)*  
+  [🔗 View Certificate](https://coursera.org/share/0f3fac4efcb7e4e2d4efa83af62b0003)
+
+- **Prepare Data for Exploration**  
+  *Offered by: Coursera (Authorized by Google)*  
+  [🔗 View Certificate](https://coursera.org/share/ded0378de993f9504e4c68c7321a4331)
+
+- **Process Data from Dirty to Clean**  
+  *Offered by: Coursera (Authorized by Google)*  
+  [🔗 View Certificate](https://coursera.org/share/852da16883d811836f4b8a69f16d0105)
+
+
+
+  
 ---
 
 ### 🚀 Projects
