@@ -30,6 +30,7 @@ My interests span across AI, Natural Language Processing (NLP), Generative AI (G
 
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/...)  
 - [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/...)
+- [Supervised Machine Learning: Regression](https://coursera.org/share/1e4ffd64b5cd6da4f95a4c1762701244)
 
 ---
 
