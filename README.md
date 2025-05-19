@@ -56,6 +56,24 @@ My interests span across AI, Natural Language Processing (NLP), Generative AI (G
   *Offered by: Coursera (Authorized by Google)*  
   [🔗 View Certificate](https://coursera.org/share/852da16883d811836f4b8a69f16d0105)
 
+- **Complete Data Science,Machine Learning,DL,NLP Bootcamp**  
+  *Offered by: Udemy (taught by Krish Naik, KrishAI)*  (On Progress)
+
+- **Complete Generative AI Course With Langchain and Huggingface**  
+  *Offered by: Udemy (taught by Krish Naik, KrishAI)*  (On Progress)
+
+- **Complete MLOps Bootcamp With 10+ End To End ML Projects**  
+  *Offered by: Udemy (taught by Krish Naik, KrishAI)*  (On Progress)
+
+- **Complete Computer Vision Bootcamp With PyTorch & Tensorflow**  
+  *Offered by: Udemy (taught by Krish Naik, KrishAI)*  (On Progress)
+
+
+
+
+
+  
+
 
 
   
