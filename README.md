@@ -1,6 +1,8 @@
 ### 👋 Hi there, I'm Manigandan V
 
-I'm a passionate Data Science enthusiast with a strong academic foundation and a focus on solving real-world problems through Machine Learning and Data Analytics. I’m currently pursuing an **M.Tech in Modeling and Simulation** at the **Defence Institute of Advanced Technology (DIAT), Pune**, and hold an **M.S. in Mathematical Physics** from **NIT Arunachal Pradesh**.
+I'm a passionate Data Science and Artificial Intelligence enthusiast with a strong academic foundation and a focus on solving real-world problems using Machine Learning, Deep Learning, and Data Analytics. I recently completed my M.Tech in Modeling and Simulation from the Defence Institute of Advanced Technology (DIAT), Pune, and hold an M.S. in Mathematical Physics from NIT Arunachal Pradesh.
+
+My interests span across AI, Natural Language Processing (NLP), Generative AI (GenAI), Computer Vision (CV), and Statistical Analysis, with a keen focus on building impactful, scalable solutions.
 
 ---
 
