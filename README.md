@@ -28,10 +28,17 @@ My interests span across AI, Natural Language Processing (NLP), Generative AI (G
 
 ### 📚 Certifications
 
-- [Google Data Analytics Professional Certificate](https://coursera.org/share/...)  
-- [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/...)
-- [Supervised Machine Learning: Regression](https://coursera.org/share/1e4ffd64b5cd6da4f95a4c1762701244)
+- **Exploratory Data Analysis for Machine Learning**  
+  *Offered by: Coursera (part of the Advanced Data Analytics Specialization)*  
+  [🔗 View Certificate](https://coursera.org/share/aa97c874825ec3425610111fc4cf63ec)
 
+- **Supervised Machine Learning: Regression**  
+  *Offered by: Coursera (taught by Andrew Ng, DeepLearning.AI)*  
+  [🔗 View Certificate](https://coursera.org/share/1e4ffd64b5cd6da4f95a4c1762701244)
+
+- **Supervised Machine Learning: Regression and Classification**  
+  *Offered by: Coursera (taught by Andrew Ng, DeepLearning.AI)*  
+  [🔗 View Certificate](https://coursera.org/share/944e7790940e5d734044a413ecb69c0c)
 ---
 
 ### 🚀 Projects
