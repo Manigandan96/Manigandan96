@@ -19,9 +19,9 @@ My interests span across AI, Natural Language Processing (NLP), Generative AI (G
 
 ### 🛠️ Skills & Tools
 
-**Languages:** Python, C, SQL  
-**Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Huggingface  
-**Tools:** Jupyter Notebook, VS Code, PyCharm, Streamlit, MySQL  
+**Languages:** Python, SQL  
+**Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, PyTorch, CV, Matplotlib, Seaborn
+**Tools:** Jupyter Notebook, VS Code, Streamlit, MySQL  
 **Deployment:** Streamlit, Flask (learning), Git & GitHub  
 
 ---
